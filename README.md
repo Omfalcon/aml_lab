@@ -1,5 +1,9 @@
 # Applied Machine Learning (AML) Lab
 
+**Om Agarwal
+590016363
+B13**
+
 Welcome to the AML Lab repository. This project contains various machine learning experiments and datasets for learning and practice.
 
 ## Project Structure
@@ -24,3 +28,5 @@ To run these experiments, you'll generally need:
 
 REPO LINK
 **https://github.com/Omfalcon/aml_lab**
+
+
