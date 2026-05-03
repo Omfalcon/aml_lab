@@ -20,3 +20,7 @@ To run these experiments, you'll generally need:
 - Python 3.x
 - Jupyter Notebook
 - Standard ML libraries (e.g., scikit-learn, pandas, numpy, matplotlib)
+
+
+REPO LINK
+**https://github.com/Omfalcon/aml_lab**
